@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Smart Vehicle Transport</string>
+    <string name="title_activity_map">MapActivity</string>
+</resources>

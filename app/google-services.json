@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "896911640747",
+    "firebase_url": "https://smart-vehicle-transport-86f73.firebaseio.com",
+    "project_id": "smart-vehicle-transport-86f73",
+    "storage_bucket": "smart-vehicle-transport-86f73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896911640747:android:dc1674322e601641f04fee",
+        "android_client_info": {
+          "package_name": "com.example.smartvehicletransport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896911640747-ad7nla6j5g1luhht60q3rsgf8mon31f7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartvehicletransport",
+            "certificate_hash": "802f267c0f5c0e9760f2a04469e7cf99172e6fcb"
+          }
+        },
+        {
+          "client_id": "896911640747-q168andn00m8vjcu9f4cpt7lt9hg7gbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtizAby_ajD_SGSQG2gp-flMN4ZdGqA-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896911640747-q168andn00m8vjcu9f4cpt7lt9hg7gbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
